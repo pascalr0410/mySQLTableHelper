@@ -18,7 +18,7 @@ before using the createTable function to properly intialize utf8 string format o
 
 ! UPDATE !
 
-News version, more simple, stable and versatile, cath almost all possible case !
+News version, more simple, stable and versatile, catch almost all possible case !
 
 Here is the test function :
 
